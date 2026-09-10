@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Large model files
+*.task
+
+# OS / editor files
+.DS_Store
+.vscode/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
