@@ -6,4 +6,5 @@ torch==2.14.1
 torchvision==0.29.1
 jupyterlab==4.6.4
 ipykernel==7.4.0
-
+scikit-learn
+pandas

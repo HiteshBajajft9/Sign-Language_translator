@@ -25,3 +25,5 @@ __pycache__/
 build/
 dist/
 *.egg-info/
+
+asl_letters_small_processed/
